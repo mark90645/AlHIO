@@ -10,6 +10,7 @@ using namespace std;
 int main()
 {
     //設參數(暫時)
+    ////////////
     const int v_num = 14;//stands for vessels' number(k)
     const int Port = 24;//stands for port's length(i)
     const int Time = 48;//stands for time(j)
